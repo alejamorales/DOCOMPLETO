@@ -1,0 +1,14 @@
+\begin{theindex}
+\vspace*{0.5cm}\nopagebreak
+\tikz\node at (0pt,0pt) [draw=none,fill=ocre!50,line width=1pt,inner sep=5pt]{\parbox{\linewidth-2\fboxsep-2\fboxrule-2pt}{\centering\large\sffamily\bfseries\textcolor{white}{I}}};\vspace*{0.2cm}\nopagebreak
+
+  \item Introducci\IeC {\'o}n\dotfill \hyperpage{9}
+
+  \indexspace
+\vspace*{0.5cm}\nopagebreak
+\tikz\node at (0pt,0pt) [draw=none,fill=ocre!50,line width=1pt,inner sep=5pt]{\parbox{\linewidth-2\fboxsep-2\fboxrule-2pt}{\centering\large\sffamily\bfseries\textcolor{white}{O}}};\vspace*{0.2cm}\nopagebreak
+
+  \item Objetivo General\dotfill \hyperpage{8}
+  \item Objetivos Espec\IeC {\'\i }ficos\dotfill \hyperpage{8}
+
+\end{theindex}

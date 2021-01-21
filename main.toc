@@ -1,0 +1,115 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\babel@toc {spanish}{}
+\defcounter {refsection}{0}\relax 
+\contentsline {part}{\@mypartnumtocformat {I}{Parte Uno}}{5}{part.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {1}Introducci\IeC {\'o}n}{7}{chapter.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.1}Objetivo General}{8}{section.1.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.2}Objetivos Espec\IeC {\'\i }ficos}{8}{section.1.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {2}Interacci\IeC {\'o}n de fotones con materia}{9}{chapter.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.1}Radiaci\IeC {\'o}n}{9}{section.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.2}La radiaci\IeC {\'o}n y el \IeC {\'a}tomo }{10}{section.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.3}Decaimiento radiactivo}{10}{section.2.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.3.1}Decaimiento alfa}{11}{subsection.2.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.3.2}Decaimiento Beta}{12}{subsection.2.3.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.3.3}Decaimiento Beta menos}{12}{subsection.2.3.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.3.4}Decaimiento beta mas}{12}{subsection.2.3.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.3.5}Captura de electrones}{12}{subsection.2.3.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.3.6}Transici\IeC {\'o}n isom\IeC {\'e}rica}{13}{subsection.2.3.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.4}Vida Media}{13}{section.2.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.4.1}Unidades de Radiactividad}{13}{subsection.2.4.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.5}Interacci\IeC {\'o}n Radiaci\IeC {\'o}n-Materia}{14}{section.2.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.6}clasificaci\IeC {\'o}n de la radiaci\IeC {\'o}n}{14}{section.2.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.6.1}Grupos de clasificaci\IeC {\'o}n}{14}{subsection.2.6.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.7}Clasificaci\IeC {\'o}n de la radiaci\IeC {\'o}n}{15}{section.2.7}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.7.1}Clasificaci\IeC {\'o}n de Radiaci\IeC {\'o}n Ionizante}{15}{subsection.2.7.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.7.2}Clasificaci\IeC {\'o}n de la Radiaci\IeC {\'o}n ionizante Directa}{16}{subsection.2.7.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.7.3}Clasificaci\IeC {\'o}n de la radiaci\IeC {\'o}n de fotones bajo ionizaci\IeC {\'o}n indirecta}{16}{subsection.2.7.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.8}Interacci\IeC {\'o}n de part\IeC {\'\i }culas cargadas con la materia}{16}{section.2.8}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.8.1}Rango de part\IeC {\'\i }culas cargadas }{17}{subsection.2.8.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.9}Produccion Bremsstrahlung}{17}{section.2.9}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.10}Interacci\IeC {\'o}n materia-energ\IeC {\'\i }a \textit {(fotones)}}{18}{section.2.10}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Interacciones fot\IeC {\'o}nicas de importancia en el \IeC {\'a}rea de f\IeC {\'\i }sica m\IeC {\'e}dica }{19}{section*.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.10.1}Interacci\IeC {\'o}n en un absorbente}{20}{subsection.2.10.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.11}Interacci\IeC {\'o}n de part\IeC {\'\i }culas cargadas}{22}{section.2.11}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.11.1}Part\IeC {\'\i }culas Alfa}{22}{subsection.2.11.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.11.2} Part\IeC {\'\i }culas Beta}{22}{subsection.2.11.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.11.3}Interacci\IeC {\'o}n de rayos X y rayos gamma}{23}{subsection.2.11.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.12}Cantidades unidades de Radiaci\IeC {\'o}n}{24}{section.2.12}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.12.1}Tasa de conteo}{24}{subsection.2.12.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.12.2}Exposici\IeC {\'o}n}{24}{subsection.2.12.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.12.3}Dosis absorbida}{25}{subsection.2.12.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.12.4}Dosis equivalente}{25}{subsection.2.12.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.12.5}Dosis efectiva}{25}{subsection.2.12.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.12.6}Dosis efectiva comprometida}{25}{subsection.2.12.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.12.7}Dosis efectiva total}{25}{subsection.2.12.7}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.12.8}Par\IeC {\'a}metros f\IeC {\'\i }sicos del haz de radiaci\IeC {\'o}n a utilizar en un tratamiento}{26}{subsection.2.12.8}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.13}Propiedades de la Radiaci\IeC {\'o}n Electromagn\IeC {\'e}tica}{26}{section.2.13}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.13.1}Influencia de la geometr\IeC {\'\i }a en la determinaci\IeC {\'o}n de coeficientes de atenuaci\IeC {\'o}n}{26}{subsection.2.13.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.14}Detectores de Radiaci\IeC {\'o}n Ionizante}{27}{section.2.14}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.15}Protecci\IeC {\'o}n Radiol\IeC {\'o}gica}{28}{section.2.15}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {3}Simulaci\IeC {\'o}n e Interacci\IeC {\'o}n electromagn\IeC {\'e}tica}{31}{chapter.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.1}Aspectos asociados al modelo electromagn\IeC {\'e}tico desde la versi\IeC {\'o}n simulada}{31}{section.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.2}}{31}{section.3.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.3}}{31}{section.3.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.4}Dise\IeC {\~n}o de herramienta computacional GEANT4}{32}{section.3.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.5}Modelo implementando Geant4}{32}{section.3.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.5.1}Procesos incorporados en Geant4.}{33}{subsection.3.5.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.6}Geometr\IeC {\'\i }a}{35}{section.3.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.7}Procesos F\IeC {\'\i }sicos}{35}{section.3.7}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.8}Manejo de la informaci\IeC {\'o}n (Adquisici\IeC {\'o}n e implementaci\IeC {\'o}n de datos).}{36}{section.3.8}
+\contentsfinish 
